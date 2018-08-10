@@ -1,0 +1,1 @@
+EventDispatcher.mixin(Startup).init();
